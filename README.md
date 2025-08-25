@@ -1,7 +1,11 @@
-# College-fest-Web-Application
-
+# SNAP FEST 2024 Website
+## Team Members:
+- Choda YBV Anjaneya (21CS10020)
+- Maddi Nihith (21CS10040)
+- Pola Gnana Shekar (21CS10052)
+- Pavan Kumar Simma (21CS10060)
 ## Project Overview:
-SNAP FEST website is a web application designed to handle events, participants, and other activities of the SNAP fest. The website provides functionalities for external participants, students, organizers, and admins.
+SNAP FEST 2024 website is a web application designed to handle events, participants, and other activities of the SNAP fest. The website provides functionalities for external participants, students, organizers, and admins.
 
 ## Technologies Used:
 - **Frontend**: React Js
@@ -46,4 +50,3 @@ SNAP FEST website is a web application designed to handle events, participants, 
 - Run `npm start` to start the backend server. The server will run at http://localhost:5000.
 ---
 This project showcases the team's proficiency in developing a full-stack web application using modern technologies to manage events and participants efficiently.
-
